@@ -1,0 +1,4 @@
+Lazy at reviewing receipts. Take a picture of the receipt, image recognition of the receipt and prices for auto population of object (key) and monetary price (value), which could then have an optional assignee of a name in a form.
+
+Name could be a foreign key to a Users table of "friends", where friends previously entered into the table are displayed in a dropdown select, or there could be an option for adding a new "friend" user.
+
